@@ -6,10 +6,49 @@
         id        = "com.telerik.NAFDACApp"
         version   = "1.0.1">
 
-    <name>Hello World</name>
+    <name>NAFDAC</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+       
+The National Agency for Food and Drug Administration and Control (NAFDAC) was established as a parastatal of the Federal Ministry of Health by Decree No. 15 of 1993 as amended. The agency has the mandate to regulate and control the manufacture, importation, exportation, distribution, advertisement, sale and use of food, drugs, cosmetics, medical devices, chemicals, packaged water and other drinks.
+
+Mission Statement
+
+To safeguard public health by ensuring the only safe and right quality food, medicine, cosmetics, medical devices, chemicals, detergents and packaged water are manufactured, imported, exported, advertised, distributed, sold and used in Nigeria.
+
+There are presently nine (9) directorates in NAFDAC headed by Directors who report to the Director-General (DG).
+
+Functions of NAFDAC
+
+In accordance with the enabling laws, NAFDAC is authorised to:
+
+• Regulate and control the importation, exportation, manufacture, advertisement, distribution, sale and use of regulated products.
+
+• Conduct appropriate tests and ensure compliance with standard specifications.
+
+• Undertake appropriate investigation of the production premises and raw materials of regulated products.
+
+• Compile standard specifications, regulations, and guidelines for the production, importation, exportation, sale and distribution of regulated products.
+
+• Control the exportation and issue quality certification of regulated products intended for export.
+
+• Establish and maintain relevant laboratories for the performance of its functions.
+
+• Ensure that the use of narcotic drugs and psychotropic substances are limited to medical and scientific use only.
+
+• Undertake the registration of food, drugs, medical devices, bottled water and chemicals.
+
+• Undertake inspection of imported regulated products.
+
+• Pronounce on the quality and safety of regulated products after appropriate analysis. What you need to know
+
+The registration of foods, drugs and other regulated products by the agency is an attestation to the quality of the product. We urge you to avoid products not registered by the agency and inform and educate members of your family, friends and other loved ones about this.
+
+Self medication has the potential to cause undue harm and we advise that as youth, you avoid this trend and seek professional advice before using prescription medications. Also don‘t not patronise quacks or drug hawkers for your medicines.
+
+Promotion of a healthy lifestyle will definitely benefit all and we encourage you to engage in activities that will ensure you remain healthy. NAFDAC cannot work alone, we urge you to report any activities you notice that affect the quality of regulated products to the nearest NAFDAC Offic e or call 08133630600 or 08058741647
+
+We plead with youths to shun and avoid drug and substance abuse and engage in meaningful and productive endeavors that will contribute positively to the growth of our great nation.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
