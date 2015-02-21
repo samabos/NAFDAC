@@ -1,2 +1,2 @@
 # NAFDAC
-NAFDAC
+The National Agency for Food and Drug Administration and Control (NAFDAC) was established as a parastatal of the Federal Ministry of Health by Decree No. 15 of 1993 as amended. The agency has the mandate to regulate and control the manufacture, importation, exportation, distribution, advertisement, sale and use of food, drugs, cosmetics, medical devices, chemicals, packaged water and other drinks. Mission Statement To safeguard public health by ensuring the only safe and right quality food, medicine, cosmetics, medical devices, chemicals, detergents and packaged water are manufactured, imported, exported, advertised, distributed, sold and used in Nigeria.
